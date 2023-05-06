@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022User02Lib.dll", "SF2022User02Lib.dll\SF2022User02Lib.dll.csproj", "{00B7AF9E-1386-4C7C-AA6C-6C84C6C63B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSF2022User02Lib", "TestSF2022User02Lib\TestSF2022User02Lib.csproj", "{ABAED461-1313-4ED7-A713-098AF13F9C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B7AF9E-1386-4C7C-AA6C-6C84C6C63B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B7AF9E-1386-4C7C-AA6C-6C84C6C63B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B7AF9E-1386-4C7C-AA6C-6C84C6C63B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B7AF9E-1386-4C7C-AA6C-6C84C6C63B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAED461-1313-4ED7-A713-098AF13F9C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAED461-1313-4ED7-A713-098AF13F9C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAED461-1313-4ED7-A713-098AF13F9C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAED461-1313-4ED7-A713-098AF13F9C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
